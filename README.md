@@ -15,7 +15,7 @@ Administrar usuarios del sistema: Esta funcionalidad realizará la administraci�
 
 Realizar ventas: Esta operación se encarga de apoyar la realización de las ventas del almacén.
 
-
+![alt text](https://github.com/ignaciourra93/Trabajo-de-Titulo/blob/main/src/Fotos/ventas.png?raw=true)
 
 Administrar Existencia: Esta funcionalidad se encargará de realizar la administración completa de las existencias del almacén.
 
